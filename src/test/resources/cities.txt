@@ -1,0 +1,5 @@
+derbent|{"city":"\u0414\u0435\u0440\u0431\u0435\u043d\u0442","code":"derbent","guid":"c06f5863-f1b8-4eeb-bbd4-10eb72bc4f24"}
+taganrog|{"city":"\u0422\u0430\u0433\u0430\u043d\u0440\u043e\u0433","code":"taganrog","guid":"0d198a8f-dbe8-4f1b-839f-9a8a49bd3e66"}
+moscow|{"city":"Москва","code":"moscow","guid":"f1c3c4f0-3426-4cda-8449-e5d326e02f97"}
+omsk|{"city":"\u041e\u043c\u0441\u043a","code":"omsk","guid":"e8bf6f9b-ce10-4dd5-aec6-c875b63be234"}
+astrahan|{"city":"\u0410\u0441\u0442\u0440\u0430\u0445\u0430\u043d\u044c","code":"astrahan","guid":"972de328-4954-45af-978a-0993ed0289f3"}

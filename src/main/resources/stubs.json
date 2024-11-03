@@ -1,0 +1,18 @@
+[
+  {
+    "url": "/local/ajax/current-city.php?CODE=derbent",
+    "response": {
+      "status": 200,
+      "contentType": "application/json",
+      "body": "{\"city\":\"Дербент\",\"code\":\"derbent\",\"guid\":\"c06f5863-f1b8-4eeb-bbd4-10eb72bc4f24\"}"
+    }
+  },
+  {
+    "url": "/local/ajax/current-city.php?CODE=taganrog",
+    "response": {
+      "status": 200,
+      "contentType": "application/json",
+      "body": "{\"city\":\"Таганрог\",\"code\":\"taganrog\",\"guid\":\"0d198a8f-dbe8-4f1b-839f-9a8a49bd3e66\"}"
+    }
+  }
+]
